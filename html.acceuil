@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Ma Page de Présentation</title>
+</head>
+<body>
+    <h1>Bienvenue sur ma page !</h1>
+    
+    <p>Bonjour, je m'appelle <strong>Jean</strong> et j'apprends le HTML.</p>
+    
+    <h2>Mes hobbies</h2>
+    <ul>
+        <li>Lecture</li>
+        <li>Musique</li>
+        <li>Programmation</li>
+    </ul>
+    
+    <h2>Mon image préférée</h2>
+    <img src="https://via.placeholder.com/200" alt="Image exemple">
+    
+    <h2>Me contacter</h2>
+    <p>Vous pouvez m'écrire à <a href="mailto:exemple@email.com">mon email</a>.</p>
+</body>
+</html>
